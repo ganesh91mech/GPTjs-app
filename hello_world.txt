@@ -1,0 +1,2 @@
+Hello This line has been added manually
+And now I will commit this to the GitHub for practice
